@@ -5,3 +5,4 @@ carre = valeur**2
 
 print(carre)
 
+
